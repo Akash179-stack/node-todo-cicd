@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "akash78977/node-todo-cicd:latest"
+    image: "akash78977/node-todo-cicd:v1"
     ports:
       - "8000:8000"
